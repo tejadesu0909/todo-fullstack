@@ -1,5 +1,6 @@
 # Full Stack Todo Application
 
+## What it does
 
 ## What it does
 - Create, edit, delete todos with title, description, due date.
