@@ -1,6 +1,5 @@
 # Full Stack Todo Application
 
-## What it does
 
 ## What it does
 - Create, edit, delete todos with title, description, due date.
@@ -8,6 +7,7 @@
 - Mark todos complete/incomplete; filter by all/active/completed.
 - Sort todos by created date or due date; pagination built in.
 - Past-due dates are blocked; server validation returns clear errors.
+- Light/dark toggle, error Snackbar, inline field validation.
 - Light/dark toggle, error Snackbar, inline field validation.
 
 ## Tech Stack
